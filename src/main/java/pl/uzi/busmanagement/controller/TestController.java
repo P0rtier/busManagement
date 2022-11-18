@@ -1,2 +1,4 @@
-package pl.uzi.busmanagement.controller;public class TestController {
+package pl.uzi.busmanagement.controller;
+
+public class TestController {
 }
